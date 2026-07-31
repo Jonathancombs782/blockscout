@@ -17,4 +17,4 @@ config :explorer,
       url: System.get_env("ETHEREUM_JSONRPC_WS_URL")
     ],
     variant: EthereumJSONRPC.Arbitrum
-  ]
+https://github.com/berkmancenter/lumendatabase.wiki.git  ]
